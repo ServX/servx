@@ -1,0 +1,9 @@
+Building Servx
+
+See doc/readme-qt.rst for instructions on building Servx-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Servx.
+
+See doc/build-*.txt for instructions on building servxd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Servx.
